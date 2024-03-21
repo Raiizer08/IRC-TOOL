@@ -78,7 +78,7 @@ To Send Message Anonymously type the following commands in Linux terminal:
 ```
 sudo apt install git
 git clone https://github.com/Raiizer08/IRC-TOOL
-cd Anon-SMS
+cd IRC-TOOL
 sudo bash Run.sh
 ```
 
@@ -87,4 +87,3 @@ sudo bash Run.sh
 ```
 
 
-<a href="https://www.buymeacoffee.com/HACK3RY2J"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=HACK3RY2J&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" /></a>
