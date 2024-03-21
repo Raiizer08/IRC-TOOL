@@ -61,7 +61,7 @@ apt install git -y
 echo -e "\e[1;34m Requesting Update From Source..."
 echo -e "\e[1;34m Request Attempt Successful.."
 echo -e "\e[1;34m Updating Now..."
-git clone https://github.com/HACK3RY2J/Anon-SMS.git
+git clone https://github.com/Raiizer08/IRC-TOOL
 if [[ -s Anon-SMS/Run.sh ]];then
 cd Anon-SMS
 cp -r -f * .. > temp
